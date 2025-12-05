@@ -1,7 +1,7 @@
-# 👋 Hola! Soy Andrés
+# 👋 HI! Andrés here
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+developers+WHERE+passion+%3D+true;console.log(%22Hola%2C+soy+Andr%C3%A9s!%22);print(%22Building+cool+stuff+%F0%9F%9A%80%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=SELECT+*+FROM+developers+WHERE+passion+%3D+true;console.log(%22Hola%2C+soy+Andr%C3%A9s!%22);print(%22Building+cool+stuff+%F0%9F%9A%80%22)" alt="Typing SVG" />
 </div>
 
 ```sql
@@ -35,7 +35,7 @@ class Experience:
     
     buk = {
         "role": "Backend Dev (Internship)",
-        "period": "2024",
+        "period": "2024 - Summer",
         "achievement": "⚡ Reduced CI/CD pipeline by 3 min",
         "stack": ["Ruby on Rails", "Docker"]
     }
@@ -47,7 +47,7 @@ typedef struct {
     char* frontend[]  = {"TypeScript", "Nuxt.js", "React Native"};
     char* cloud[]     = {"AWS", "Docker", "Terraform", "Lambda"};
     char* data[]      = {"PostgreSQL", "Pandas", "Bedrock", "Celonis"};
-    int   coffee_cups_per_day;  // undefined behavior if < 3
+    int   coffee_cups_per_day;  // undefined behavior if > 1
 } TechStack;
 ```
 
@@ -65,17 +65,26 @@ typedef struct {
 
 [![Gmail](https://img.shields.io/badge/-awsalinas@uc.cl-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:awsalinas@uc.cl)
 [![LinkedIn](https://img.shields.io/badge/-Andrés%20Salinas-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-salinas-moraga-136839173/)
+[![Telegram](https://img.shields.io/badge/-@Ragabuille-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Ragabuille)
 
 ---
 
-```js
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
+```bash
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣉⡥⠶⢶⣿⣿⣿⣿⣷⣆⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡿⢡⡞⠁⠀⠀⠤⠈⠿⠿⠿⠿⣿⠀⢻⣦⡈⠻⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡇⠘⡁⠀⢀⣀⣀⣀⣈⣁⣐⡒⠢⢤⡈⠛⢿⡄⠻⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⡇⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⠉⠐⠄⡈⢀⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⠇⢠⣿⣿⣿⣿⡿⢿⣿⣿⣿⠁⢈⣿⡄⠀⢀⣀⠸⣿⣿⣿⣿
+⣿⣿⣿⣿⡿⠟⣡⣶⣶⣬⣭⣥⣴⠀⣾⣿⣿⣿⣶⣾⣿⣧⠀⣼⣿⣷⣌⡻⢿⣿
+⣿⣿⠟⣋⣴⣾⣿⣿⣿⣿⣿⣿⣿⡇⢿⣿⣿⣿⣿⣿⣿⡿⢸⣿⣿⣿⣿⣷⠄⢻
+⡏⠰⢾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢂⣭⣿⣿⣿⣿⣿⠇⠘⠛⠛⢉⣉⣠⣴⣾
+⣿⣷⣦⣬⣍⣉⣉⣛⣛⣉⠉⣤⣶⣾⣿⣿⣿⣿⣿⣿⡿⢰⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡘⣿⣿⣿⣿⣿⣿⣿⣿⡇⣼⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⢸⣿⣿⣿⣿⣿⣿⣿⠁⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ```
+
+<img src="https://komarev.com/ghpvc/?username=Gabucado&color=00D9FF&style=flat-square" />
 
 </div>
 
