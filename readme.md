@@ -1,7 +1,7 @@
 # 👋 HI! Andrés here
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=SELECT+*+FROM+developers+WHERE+passion+%3D+true;console.log(%22Hola%2C+soy+Andr%C3%A9s!%22);print(%22Building+cool+stuff+%F0%9F%9A%80%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+developers+WHERE+passion+%3D+true;console.log(%22Hola%2C+soy+Andr%C3%A9s!%22);print(%22Building+cool+stuff+%F0%9F%9A%80%22)" alt="Typing SVG" />
 </div>
 
 ```sql
