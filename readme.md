@@ -51,17 +51,17 @@ typedef struct {
 } TechStack;
 ```
 
-<div align="center">
 
 ## 📊 Stats
 
-<!-- Usando GitHub Readme Streak Stats (alternativa que sí funciona) -->
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=Gabucado&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-
-<!-- Tu gráfico 3D ya existente -->
 <img src="https://raw.githubusercontent.com/Gabucado/Gabucado/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contributions"/>
+</div>
 
 ## 🔗 Links
+
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/-awsalinas@uc.cl-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:awsalinas@uc.cl)
 [![LinkedIn](https://img.shields.io/badge/-Andrés%20Salinas-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-salinas-moraga-136839173/)
