@@ -1,56 +1,25 @@
-# 👋 HI! Andrés here
+# 👋 Hi, I'm Andrés
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SELECT+*+FROM+developers+WHERE+passion+%3D+true;console.log(%22Hola%2C+soy+Andr%C3%A9s!%22);print(%22Building+cool+stuff+%F0%9F%9A%80%22)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Fullstack+developer;Building+products+with+AI+and+cloud;Based+in+Santiago%2C+Chile+%F0%9F%87%A8%F0%9F%87%B1" alt="Typing SVG" />
 </div>
 
-```sql
-CREATE TABLE DEVELOPER (
-    id              SERIAL PRIMARY KEY,
-    name            VARCHAR(100) DEFAULT 'Andrés Salinas Moraga',
-    role            VARCHAR(100) DEFAULT 'Fullstack Developer',
-    location        VARCHAR(50)  DEFAULT 'Santiago, Chile 🇨🇱',
-    education       VARCHAR(100) DEFAULT 'Ing. Civil Computación @ PUC',
-    coffee_level    INT          DEFAULT 9999,
-    current_quest   TEXT         DEFAULT 'Building AI-powered analytics platform',
-    
-    CONSTRAINT passion_check CHECK (loves_coding = true)
-);
-```
+Soy un desarrollador Fullstack de Stgo Chile. Estudie Ingenieria en Computación en la PUC y me gusta experimentar con tecnologías nuevas e infra.  
 
-```python
-class Experience:
-    """💼 Where I've been breaking (and fixing) things"""
-    
-    opticksai = {
-        "role": "Fullstack Developer",
-        "period": "2025 - Present",
-        "achievements": [
-            "🏗️ Built product from scratch with hexagonal architecture",
-            "☁️ Auto-scaling workers on AWS EC2",
-            "🤖 LLM agents for analytics (yes, AI is fun)",
-        ],
-        "stack": ["NestJS", "Nuxt.js", "AWS", "Terraform", "Python"]
-    }
-    
-    buk = {
-        "role": "Backend Dev (Internship)",
-        "period": "2024 - Summer",
-        "achievement": "⚡ Reduced CI/CD pipeline by 3 min",
-        "stack": ["Ruby on Rails", "Docker"]
-    }
-```
+## 💼 Que he estado haciendo?
 
-```c
-typedef struct {
-    char* backend[]   = {"NestJS", "Rails", "Python", "Go"};
-    char* frontend[]  = {"TypeScript", "Nuxt.js", "React Native"};
-    char* cloud[]     = {"AWS", "Docker", "Terraform", "Lambda"};
-    char* data[]      = {"PostgreSQL", "Pandas", "Bedrock", "Celonis"};
-    int   coffee_cups_per_day;  // undefined behavior if > 1
-} TechStack;
-```
+En IConstruye cumplí un rol de mantenedor de código. Usaba tecnologías propietarias en C# y VB.
 
+Antes de ese rol, en OpticksAI construí analiticas con consultas que usaban IA para el cliente. Este producto usa arquitectura hexagonal y la solución implementa autoescalamiento en workers EC2 en AWS, todo para ponerle pilas a los agentes.
+
+Y antes de eso, en el verano de 2024, hice una pasantía en **Buk**, donde trabajé en el backend con RoR y Docker. Trabajé en el modelo y en el pipeline de CI/CD.
+
+## 🛠️ Tech I work with
+
+- **Backend:** NestJS, Ruby on Rails, Python, Go
+- **Frontend:** TypeScript, Nuxt.js, React Native
+- **Cloud:** AWS, Docker, Terraform, Lambda
+- **Data:** PostgreSQL, Pandas, Bedrock, Celonis
 
 ## 📊 Stats
 
@@ -87,4 +56,3 @@ typedef struct {
 <img src="https://komarev.com/ghpvc/?username=Gabucado&color=00D9FF&style=flat-square" />
 
 </div>
-
