@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Andrés
+Soy un desarrollador Fullstack de Stgo Chile. Estudie Ingenieria en Computación en la PUC y me gusta experimentar con tecnologías nuevas e infra.  
 
 <div align="center">
 
@@ -19,7 +20,6 @@
 
 </div>
 
-Soy un desarrollador Fullstack de Stgo Chile. Estudie Ingenieria en Computación en la PUC y me gusta experimentar con tecnologías nuevas e infra.  
 
 ## 💼 Que he estado haciendo?
 
