@@ -14,14 +14,15 @@ Antes de ese rol, en OpticksAI construí analiticas con consultas que usaban IA 
 
 Y antes de eso, en el verano de 2024, hice una pasantía en **Buk**, donde trabajé en el backend con RoR y Docker. Trabajé en el modelo y en el pipeline de CI/CD.
 
-## 🛠️ Tech I work with
+## 🛠️ Mi stack
 
-- **Backend:** NestJS, Ruby on Rails, Python, Go
-- **Frontend:** TypeScript, Nuxt.js, React Native
-- **Cloud:** AWS, Docker, Terraform, Lambda
-- **Data:** PostgreSQL, Pandas, Bedrock, Celonis
+- **Backend:** NestJS, RoR, Python, Go, C#
+- **Frontend:** Nuxt.js, React Native, Next.js
+- **Cloud:** AWS, Docker, Terraform
+- **Data:** PostgreSQL, Pandas, Bedrock, Celonis, Glue
+- **Diversión:** Python
 
-## 📊 Stats
+## 📊 Graficos
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Gabucado&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
