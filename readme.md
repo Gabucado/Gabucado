@@ -48,8 +48,6 @@ Y antes de eso, en el verano de 2024, hice una pasantía en **Buk**, donde traba
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-awsalinas@uc.cl-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:awsalinas@uc.cl)
-[![LinkedIn](https://img.shields.io/badge/-Andrés%20Salinas-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andres-salinas-moraga-136839173/)
 [![Telegram](https://img.shields.io/badge/-@Ragabuille-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Ragabuille)
 
 <img src="https://komarev.com/ghpvc/?username=Gabucado&color=00D9FF&style=flat-square" />
